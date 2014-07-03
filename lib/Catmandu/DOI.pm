@@ -10,11 +10,11 @@ This module is deprecated and won't be updated. Instead see L<Catmandu::CrossRef
 
 =head1 VERSION
 
-Version 0.011
+Version 0.02
 
 =cut
 
-our $VERSION = '0.011';
+our $VERSION = '0.02';
 
 =head1 MODULES
 
