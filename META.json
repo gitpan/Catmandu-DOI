@@ -4,7 +4,7 @@
       "Wouter Willaert <wouterw@inuits.eu>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Module::Build version 0.4203",
    "license" : [
       "perl_5"
    ],
@@ -23,7 +23,7 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build" : "0.38"
+            "Module::Build" : "0.42"
          }
       },
       "runtime" : {
@@ -39,11 +39,10 @@
    "provides" : {
       "Catmandu::DOI" : {
          "file" : "lib/Catmandu/DOI.pm",
-         "version" : "0.01"
+         "version" : "0.011"
       },
       "Catmandu::Importer::DOI" : {
-         "file" : "lib/Catmandu/Importer/DOI.pm",
-         "version" : 0
+         "file" : "lib/Catmandu/Importer/DOI.pm"
       }
    },
    "release_status" : "stable",
@@ -52,5 +51,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.011"
 }

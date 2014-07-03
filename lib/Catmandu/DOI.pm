@@ -4,13 +4,17 @@ package Catmandu::DOI;
 
 Catmandu::DOI - Catmandu modules for working with DOI data.
 
+=head1 DEPRECATION NOTE
+
+This module is deprecated and won't be updated. Instead see L<Catmandu::CrossRef>.
+
 =head1 VERSION
 
-Version 0.01
+Version 0.011
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.011';
 
 =head1 MODULES
 

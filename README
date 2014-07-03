@@ -1,5 +1,9 @@
 Catmandu-DOI
 
+DEPRECATION NOTE
+
+This module is deprecated and won't be updated. Instead see Catmandu::CrossRef.
+
 Installation
 
 To install this module, run the following commands:
